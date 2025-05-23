@@ -19,5 +19,3 @@ describe('Express App', () => {
     expect(res.text).toBe('Hello World!');
   });
 });
-
-
